@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 muokkasin paikallisesti
 
+=======
+muokkasin githubissa
+>>>>>>> cd013617f789dcfeda05e67adc908c1c837828d1
